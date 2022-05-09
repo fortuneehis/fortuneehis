@@ -1,10 +1,7 @@
 ## 🧿 Bio
 
-- 👋 Hi, I’m @fortuneehis
-- 👀 I’m interested in anything design and frontend
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on anything frontend
-- 📫 reach out to me on twitter at __@edo_devboi__
+A Front-end Developer specialized in building pixel perfect and responsive web apps with React
+📫 reach out to me on twitter at __@edo_devboi__
 
 ## 💻 Tools I Use
 
