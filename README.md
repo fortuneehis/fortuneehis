@@ -12,5 +12,4 @@ A Front-end Developer specialized in building pixel perfect and responsive web a
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=cc6699)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node.js&logoColor=white&color=3c873a)
 
----
 
