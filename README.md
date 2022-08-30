@@ -1,6 +1,11 @@
 ## 🧿 Bio
 
-A Front-end Developer specialized in building pixel perfect and responsive web apps with React
+I am a frontend developer specialized in building pixel perfect and accessible web applications. I also have development experience working with Nodejs(Express), SQL, React.
+
+Technologies used: React, Node(Express), SASS, Typescript, MySQL, GIT, JavaScript, HTML, CSS, ES6, GSAP, Framer motion and TailwindCSS. I also love experimenting with GLSL (Shader Programming), THREEjs and bash.
+
+Currently learning: Rust, Web assembly, Live Streaming Architecture.
+
 📫 reach out to me on twitter at __@edo_devboi__
 
 ## 💻 Tools I Use
