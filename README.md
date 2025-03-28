@@ -3,7 +3,7 @@
 ## 🚀 Software Engineer | Fullstack Developer (Backend Heavy) | Tech Polymath
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Creating+innovative+software+solutions;Optimizing+system+performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Creating+innovative+software+solutions;Optimizing+system+performance" alt="Typing SVG" />
 </div>
 
 ## 💼 Current Role
